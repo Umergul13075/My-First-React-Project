@@ -1,0 +1,24 @@
+*{
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin: 15px;
+  padding: 15px;
+}
+button{
+  background-color: gold;
+  text-align: center;
+  text-shadow: beige;
+  color: black;
+  text-overflow: inherit;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  font-weight: bold;
+  font-size: medium;
+}
+button:hover{
+  background-color: #d4af37;
+   box-shadow: 0 0 10px #ffd700, 0 0 20px #ffd700;
+   transform: scale(1.05);
+}
